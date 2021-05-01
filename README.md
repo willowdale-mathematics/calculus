@@ -1,2 +1,0 @@
-# calculus
-Calculus animations
