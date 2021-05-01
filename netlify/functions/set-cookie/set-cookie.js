@@ -11,7 +11,7 @@ const handler = async () => {
     maxAge: COOKIE_MAX_AGE,
   })
 
-  const redirectUrl = 'https://google.com'
+  const redirectUrl = 'https://willowdalemathematics.dev'
   // Do redirects via html
   const html = `
   <html lang="en">
